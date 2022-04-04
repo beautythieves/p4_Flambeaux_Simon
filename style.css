@@ -775,6 +775,14 @@ body {
     color: white !important;
   }
   
+  /* modification de l'aspect du formulaire*/
+  .formulaire {
+    display:flex;
+    justify-content:center;
+  }
+
+    /*fin des modifications formulaire*/
+
   .btn-atomic-tangerine {
     background: #f3976c;
     color: #ffffff !important;
